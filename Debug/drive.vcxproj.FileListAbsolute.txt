@@ -1,0 +1,2 @@
+C:\Users\filipp\source\repos\drive\Debug\drive.exe
+C:\Users\filipp\source\repos\drive\Debug\drive.pdb
